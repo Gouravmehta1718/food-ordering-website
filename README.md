@@ -32,4 +32,13 @@ This is the backend system for a Food Ordering Website built using **Java Spring
 ---
 
 ## 📂 Project Structure
-
+food-ordering-backend/
+├── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ └── com.foodapp.food_ordering_backend/
+│ │ └── resources/
+│ │ ├── application.properties
+│ └── test/
+├── pom.xml
+└── README.md
